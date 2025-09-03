@@ -6,5 +6,5 @@ class Car:
     def drive(self):
         return f"{self.brand} {self.model} brauc!"
 
-car1 = Car("Toyota", "Corolla")
+car1 = Car("Citroen", "Berlingo")
 print(car1.drive())
